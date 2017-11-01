@@ -9,6 +9,6 @@ git push -u origin master <br/>
 1. Mac 工作環境介紹 <br/>
 2. cmd+shift+3 <br/>
 3. C# Hello world <br/>
-4. mcs xxx.cs
-5. mono xxx.exe
+4. mcs xxx.cs <br/>
+5. mono xxx.exe <br/>
 # wk2 <br/>
