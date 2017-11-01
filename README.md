@@ -22,4 +22,15 @@ mono xxx.exe<br/>
 2. 表單背景:this.BackgroundImage = Image.FromFile("stickman.gif");<br/>
 3. 圖片盒 PictureBox <br/>
 4. 圖片模式：圖片物件.SizeMode = PictureBoxSizeMode.StretchImage ;<br/>
-
+<h3>wk5</h3>
+1. Form 控制項<br/>
+mcs xxx.cs -r:System.Windows.Forms.DLL -r:System.Drawing.DLL<br/>
+mono xxx.exe<br/>
+2. PictureBox 控制項屬性 / for (int i=0; i<N; i++)<br/>
+Timer 計時器物件 = new Timer();  // 1. 計時器物件<br/>
+計時器物件.Tick += new EventHandler(時間到方法);  // 2. 事件方法<br/>
+計時器物件.Interval = 100; // 3. 0.1 秒<br/>
+計時器物件.Start();<br/>
+... <br/>
+void 時間到方法(Object O, EventArgs e)<br/>
+{...}<br/>
