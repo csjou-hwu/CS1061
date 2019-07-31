@@ -1,0 +1,10 @@
+/Users/d503/Documents/wk17/wk172/bin/Debug/netcoreapp2.0/wk172.deps.json
+/Users/d503/Documents/wk17/wk172/bin/Debug/netcoreapp2.0/wk172.runtimeconfig.json
+/Users/d503/Documents/wk17/wk172/bin/Debug/netcoreapp2.0/wk172.runtimeconfig.dev.json
+/Users/d503/Documents/wk17/wk172/bin/Debug/netcoreapp2.0/wk172.dll
+/Users/d503/Documents/wk17/wk172/bin/Debug/netcoreapp2.0/wk172.pdb
+/Users/d503/Documents/wk17/wk172/obj/Debug/netcoreapp2.0/wk172.csproj.CoreCompileInputs.cache
+/Users/d503/Documents/wk17/wk172/obj/Debug/netcoreapp2.0/wk172.AssemblyInfoInputs.cache
+/Users/d503/Documents/wk17/wk172/obj/Debug/netcoreapp2.0/wk172.AssemblyInfo.cs
+/Users/d503/Documents/wk17/wk172/obj/Debug/netcoreapp2.0/wk172.dll
+/Users/d503/Documents/wk17/wk172/obj/Debug/netcoreapp2.0/wk172.pdb

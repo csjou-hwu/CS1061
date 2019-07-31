@@ -1,0 +1,10 @@
+/Users/d503/Documents/wk18/wk183/bin/Debug/netcoreapp2.0/wk183.deps.json
+/Users/d503/Documents/wk18/wk183/bin/Debug/netcoreapp2.0/wk183.runtimeconfig.json
+/Users/d503/Documents/wk18/wk183/bin/Debug/netcoreapp2.0/wk183.runtimeconfig.dev.json
+/Users/d503/Documents/wk18/wk183/bin/Debug/netcoreapp2.0/wk183.dll
+/Users/d503/Documents/wk18/wk183/bin/Debug/netcoreapp2.0/wk183.pdb
+/Users/d503/Documents/wk18/wk183/obj/Debug/netcoreapp2.0/wk183.csproj.CoreCompileInputs.cache
+/Users/d503/Documents/wk18/wk183/obj/Debug/netcoreapp2.0/wk183.AssemblyInfoInputs.cache
+/Users/d503/Documents/wk18/wk183/obj/Debug/netcoreapp2.0/wk183.AssemblyInfo.cs
+/Users/d503/Documents/wk18/wk183/obj/Debug/netcoreapp2.0/wk183.dll
+/Users/d503/Documents/wk18/wk183/obj/Debug/netcoreapp2.0/wk183.pdb
